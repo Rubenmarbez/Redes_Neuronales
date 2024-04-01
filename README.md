@@ -1,1 +1,2 @@
-# Redes_Neuronales
+# Redes Neuronales
+#### Masterclass de Redes Neuronales
